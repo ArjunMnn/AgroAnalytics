@@ -17,9 +17,9 @@ else:
     print("NO")  
 # message = str(sys.argv[3])
 print(message1)
-sender_email = "2018009098.arjun@ug.sharda.ac.in"
-receiver_email = "arjunmnn7@gmail.com"
-password = "_i-<Qn5)oy]_"
+sender_email = "sender_email"
+receiver_email = "receiver_email"
+password = "password"
 host = "smtp.gmail.com"
 port = 465
 message = MIMEMultipart("alternative")
